@@ -1,0 +1,17 @@
+{
+  "name": "mok-api0.1",
+  "version": "1.0.0",
+  "description": "mok  api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json": "^11.0.0",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
