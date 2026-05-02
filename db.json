@@ -1,5 +1,4 @@
-// Auto-generated data from provided JSON
-export const carbonBrushes = [
+
   {
     "id": 6173,
     "name": "Akari 0810 Demolition Hammer 5Kg Carbon Brush",
@@ -396,4 +395,3 @@ export const carbonBrushes = [
     "category": "spare-parts",
     "description": "Yuri Carbon Brush."
   }
-];
